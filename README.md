@@ -93,7 +93,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 | Sprint            | Previsão    | Status       | Histórico          |
 |-------------------| ----------- | ------------ |--------------------|
-| 01                | 30/09/2026 | Em andamento | [MVP]()  |
+| 01                | 30/09/2026 | Em andamento | [MVP](https://github.com/GlobalMove2025/GlobalMove_API_4_2026_2/blob/ceb84b5fcd201fd03d5ee970938b0fe4ef1c1f49/MVP/sp1%20(1).md)  |
 | 02                | 28/10/2026 | A fazer | [MVP]()  |
 | 03                | 25/11/2026 | A fazer | [MVP]()  |
 | Feira de Soluções | 03/12/2026 | A fazer | [MVP]()  |
