@@ -66,9 +66,27 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 | Rank | Prioridade | User Story                                                                                                                                                                        | Estimativa | Sprint |
 | -- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-| 1  | Alta  |                                           |      2     |    1   |
-| 2  | Alta  |                                           |      2     |    1   |
-| 3  | Alta  |                                           |      2     |    1   |
+| 1  | Alta  | Como analista de dados, quero extrair e tratar os dados de estoque provenientes do ERP ALVO, para garantir uma base de dados confiável, consistente e estruturada para as análises. |      3    |    1   |
+| 2  | Alta  | Como analista de dados, quero estruturar um modelo de dados dimensional (fatos, dimensões e relacionamentos), para suportar de forma escalável as análises de estoque. |      3    |    1   |
+| 3  | Alta  | Como analista de dados, quero desenvolver o processo de ETL com regras de transformação claras e rastreáveis, para assegurar qualidade e reprodutibilidade dos dados. |    3  |    1   |
+| 4  | Alta  | Como gestor de logística, quero visualizar a quantidade total e o valor total de itens em estoque, o estoque médio e os indicadores gerais de giro, para ter uma visão geral e imediata da situação do estoque. |      2     |    1   |
+| 5  | Média  |  Como gestor de logística, quero visualizar o histórico temporal de entradas e saídas de materiais, para acompanhar a movimentação do estoque ao longo do tempo.  |      2     |    1   |
+| 6  | Média |  Como equipe do projeto, quero versionar os artefatos e o código-fonte em um repositório Git, para garantir organização, controle e transparência ao longo do desenvolvimento.  |      2     |    1   |
+| 7  | Alta  | Como gestor de logística, quero visualizar a evolução do estoque ao longo do tempo por item, incluindo um comparativo entre períodos, para identificar padrões de crescimento ou redução. |      2     |    2  |
+| 8  | Alta  | Como gestor financeiro, quero visualizar o valor atualizado do estoque por item e um ranking dos materiais de maior impacto financeiro, para priorizar decisões sobre capital imobilizado. |      3    |    2   |
+| 9  | Alta  | Como analista de estoque, quero calcular o giro de estoque (entradas x consumo) e o tempo médio de permanência por material, para identificar itens de alta e baixa rotatividade. |     3    |    2   |
+| 10  | Alta  | Como analista de estoque, quero visualizar a classificação automática dos materiais pela Curva ABC, com visão por criticidade (A/B/C), para identificar os itens críticos para a operação. |      3     |    2   |
+| 11 | Alta  | Como gestor de logística, quero calcular a cobertura de estoque em dias/meses por material, para avaliar por quanto tempo o estoque atual sustenta o consumo. |      2     |    2  |
+| 12 | Média | Como gestor de logística, quero aplicar filtros dinâmicos por tipo de material, almoxarifado, período e centro de custo, para refinar as análises conforme a necessidade de cada área. |      2     |    2   |
+| 13 | Alta  | Como gestor de logística, quero receber alertas inteligentes sobre estoque parado, estoque excessivo e materiais críticos com baixo nível (risco de ruptura), para agir preventivamente. |      3    |    2   |
+| 14 | Média |  Como gestor de logística, quero contar com uma análise preditiva de consumo, para antecipar necessidades futuras de reposição de materiais. |    3   |    3  |
+| 15 | Média | Como analista de estoque, quero identificar automaticamente materiais com risco de obsolescência, para reduzir perdas financeiras associadas a itens parados. |      2     |    3   |
+| 16 | Alta  | Como usuário da plataforma, quero uma interface responsiva, intuitiva e com baixo número de interações, para realizar análises eficientes em diferentes dispositivos. |      2     |    3   |
+| 17 | Média | Como gestor da CPTM, quero que o modelo de dados esteja preparado para integração futura com sistemas corporativos (ERP ALVO), para viabilizar a evolução da solução. |      2     |    3   |
+| 18 | Alta  | Como equipe do projeto, quero elaborar a documentação técnica completa (dicionário de dados, manual do usuário e arquitetura da solução), para garantir a compreensão e a continuidade do projeto. |      2     |    3   |
+
+
+
 
   
 # <img src="https://cdn-icons-png.flaticon.com/512/7063/7063060.png" width="40"/> Registro das Sprints
