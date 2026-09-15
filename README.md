@@ -93,7 +93,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 | Sprint            | Previsão    | Status       | Histórico          |
 |-------------------| ----------- | ------------ |--------------------|
-| 01                |             | concluído    | [MVP]()  |
-| 02                |             | concluído    | [MVP]()  |
-| 03                |             | concluído    | [MVP]()  |
-| Feira de Soluções |             | concluído    | [MVP]()  |
+| 01                | 30/09/2026 | Em andamento | [MVP]()  |
+| 02                | 28/10/2026 | A fazer | [MVP]()  |
+| 03                | 25/11/2026 | A fazer | [MVP]()  |
+| Feira de Soluções | 03/12/2026 | A fazer | [MVP]()  |
