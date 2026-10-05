@@ -40,7 +40,11 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- ...
+- Dados de estoque provenientes do ERP ALVO, para garantir uma base de dados confiável, consistente e estruturada para as análises.
+- Processo de ETL com regras de transformação claras e rastreáveis, para assegurar qualidade e reprodutibilidade dos dados.
+- Quantidade total e o valor total de itens em estoque, o estoque médio e os indicadores gerais de giro, para ter uma visão geral e imediata da situação do estoque.
+- Histórico temporal de entradas e saídas de materiais, para acompanhar a movimentação do estoque ao longo do tempo.
+  
 
 ---
 
