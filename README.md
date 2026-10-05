@@ -99,7 +99,7 @@ O estabelecimento de base para desenvolvimento de análises preditivas e melhori
 
 | Sprint            | Previsão    | Status       | Histórico          |
 |-------------------| ----------- | ------------ |--------------------|
-| 01                | 30/09/2026 | concluído | [MVP](MVP/sp1.md)  |
+| 01                | 05/10/2026 | concluído | [MVP](MVP/sp1.md)  |
 | 02                | 28/10/2026 | A fazer | [MVP](MVP/sp2.md)  |
 | 03                | 25/11/2026 | A fazer | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | A fazer | [MVP](MVP/sp3.md)  |
