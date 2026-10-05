@@ -59,6 +59,12 @@ Desenvolver um painel no BI que permita o acompanhamento detalhado dos estoques 
 
 # <img src="https://cdn-icons-png.flaticon.com/512/10645/10645636.png" width="40"/> Resultado previsto
 
+desenvolvimento de uma solução de Business Intelligence funcional, estruturada e aderente às necessidades da gestão de estoques da CPTM, contemplando: Disponibilização de um painel interativo para análise da evolução quantitativa e financeira dos estoques.
+Implementação de indicadores de desempenho, tais como giro de estoque, estoque médio e nível de cobertura.
+Identificação de oportunidades de otimização de recursos e redução de custos.
+Melhoria da eficiência na gestão dos estoques e do capital imobilizado.
+A estruturação do modelo de dados para permitir integração futura com sistemas corporativos, como o ERP ALVO.
+O estabelecimento de base para desenvolvimento de análises preditivas e melhoria contínua dos processos logísticos.
 
 
 # Product Backlog
