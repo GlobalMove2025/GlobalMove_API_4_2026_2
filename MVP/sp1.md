@@ -1,7 +1,8 @@
-# 📌 MVP - Desenvolver um painel no BI que permita o acompanhamento detalhado dos estoques da CPTM, considerando os indicadores tradicionais como Giro de estoque, Cobertura (dias), Ruptura, Excesso, Valor em estoque, Curva ABC, Tempo de permanência, evolução do estoque.
+# 📌 MVP - Controle, Análise e Acompanhamento da Evolução e Giro de Estoque de Materiais na CPTM
+
 
 ## 🎯 Objetivo do MVP
-> Desenvolver uma ferramenta de Power Bi...
+> Desenvolver um painel no BI que permita o acompanhamento detalhado dos estoques da CPTM, considerando os indicadores tradicionais como Giro de estoque, Cobertura (dias), Ruptura, Excesso, Valor em estoque, Curva ABC, Tempo de permanência, evolução do estoque.
 
 ---
 
@@ -32,8 +33,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | ... | Concluído|
-| 01     | ... | Concluído|
+| 01     | visualizar a quantidade total e o valor total de itens em estoque, o estoque médio e os indicadores gerais de giro, para ter uma visão geral e imediata da situação do estoque. | Concluído|
+| 02     | visualizar o histórico temporal de entradas e saídas de materiais, para acompanhar a movimentação do estoque ao longo do tempo. | Concluído|
 
 
 ---
