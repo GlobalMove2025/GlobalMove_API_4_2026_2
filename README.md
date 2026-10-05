@@ -41,7 +41,7 @@ Projeto pedagógico fundamentado na Metodologia API, voltado ao ensino e aprendi
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1087/1087807.png" width="40"/> Objetivo do Projeto
 
-
+Desenvolver um painel no BI que permita o acompanhamento detalhado dos estoques da CPTM, considerando os indicadores tradicionais como Giro de estoque, Cobertura (dias), Ruptura, Excesso, Valor em estoque, Curva ABC, Tempo de permanência, evolução do estoque.
 
 ## Tecnologias Utilizadas
 
