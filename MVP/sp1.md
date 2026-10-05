@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Descrição da Solução
->Inicialmente fizemos pesquisas de dados e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, o Dashboard inicial tera funcionalidaes básicas ...
+>Inicialmente fizemos pesquisas de dados sobre estoque provenientes do ERP ALVO e desenvolvemos codigo no python para coletar e fazer o tratamento dos dados, e em seguida fazer a conexão dos dados no Power BI, o Dashboard inicial tera funcionalidaes básicas que será isualizada a quantidade total e o valor total de itens em estoque, o estoque médio e os indicadores gerais de giro, para ter uma visão geral e imediata da situação do estoque.
 
 
 ---
